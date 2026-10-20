@@ -999,7 +999,7 @@ function App() {
               reserved.
             </p>
 
-            <p>Made with care in Kenya.</p>
+            <p>Made by Hillary Mugo Kuria.</p>
           </div>
         </div>
       </footer>
